@@ -1,0 +1,17 @@
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\bin\Debug\net8.0\web-scrapper.exe
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\bin\Debug\net8.0\web-scrapper.deps.json
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\bin\Debug\net8.0\web-scrapper.runtimeconfig.json
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\bin\Debug\net8.0\web-scrapper.dll
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\bin\Debug\net8.0\web-scrapper.pdb
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.csproj.AssemblyReference.cache
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.AssemblyInfoInputs.cache
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.AssemblyInfo.cs
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.csproj.CoreCompileInputs.cache
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scra.EF1922C8.Up2Date
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.dll
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\refint\web-scrapper.dll
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.pdb
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\web-scrapper.genruntimeconfig.cache
+C:\Users\gabriela\source\repos\web-scrapper\web-scrapper\obj\Debug\net8.0\ref\web-scrapper.dll

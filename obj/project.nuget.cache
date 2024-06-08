@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dd49OfCJwHPlYM7oIrUZX5oaGJtl/1fqQ5pUDzs75HnPyyqxW36Hkr0W+vIJQAr2k3VvMI5vGC58aa9qH3iOqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriela\\source\\repos\\web-scrapper\\web-scrapper\\web-scrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriela\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
